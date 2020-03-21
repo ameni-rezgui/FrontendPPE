@@ -8,7 +8,6 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { AppComponent } from './app.component';
 import { SignupComponent } from './signup/signup.component';
 import { ProfileComponent } from './profile/profile.component';
-import { NavbarComponent } from './shared/navbar/navbar.component';
 import { ToastrModule } from 'ngx-toastr';
 
 
@@ -25,7 +24,6 @@ import { DashAdminComponent } from './dashboards/dash-admin/dash-admin.component
     AppComponent,
     SignupComponent,
     ProfileComponent,
-    NavbarComponent,
     LoginComponent,
     DashAdminComponent,
 
